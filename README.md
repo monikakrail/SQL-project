@@ -86,12 +86,18 @@ SQL queries and database design
 
 Stored procedures and automation
 
+Data cleaning and data integrity
+
+Working with relational databases in a structured way
+
 **Some preview from project**
 
 <img width="1303" height="753" alt="tutioncentre1" src="https://github.com/user-attachments/assets/cb69f037-4b15-4c96-816d-4906fc45a149" />
 
+SQL COMMANDS
+
+
+
+
 <img width="1086" height="847" alt="tutioncentre2" src="https://github.com/user-attachments/assets/fb053e13-76c8-4f40-b483-01420f180820" />
-
-Data cleaning and data integrity
-
-Working with relational databases in a structured way
+Result
