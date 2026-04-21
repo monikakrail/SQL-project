@@ -1,4 +1,4 @@
-**📊 Tuition Centre Management System (SQL Project)**
+# Tuition Centre Management System (SQL Project)
 
 **📌 Project Overview**
 
